@@ -1,0 +1,21 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+#navbar {
+    border-bottom: 3px;
+}
+
+button {
+    background-color: yellow;
+}
+
+h1 {
+    color: yellow;
+}
+
+form {
+    color: purple;
+}
